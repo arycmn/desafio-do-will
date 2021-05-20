@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/desafio-do-will/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/desafio-do-will/static/js/main.7f14c4a0.chunk.js",
+    "main.js.map": "/desafio-do-will/static/js/main.7f14c4a0.chunk.js.map",
+    "runtime-main.js": "/desafio-do-will/static/js/runtime-main.06969e14.js",
+    "runtime-main.js.map": "/desafio-do-will/static/js/runtime-main.06969e14.js.map",
+    "static/js/2.acc85f68.chunk.js": "/desafio-do-will/static/js/2.acc85f68.chunk.js",
+    "static/js/2.acc85f68.chunk.js.map": "/desafio-do-will/static/js/2.acc85f68.chunk.js.map",
+    "static/js/3.41bafd2f.chunk.js": "/desafio-do-will/static/js/3.41bafd2f.chunk.js",
+    "static/js/3.41bafd2f.chunk.js.map": "/desafio-do-will/static/js/3.41bafd2f.chunk.js.map",
+    "index.html": "/desafio-do-will/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/desafio-do-will/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.acc85f68.chunk.js.LICENSE.txt": "/desafio-do-will/static/js/2.acc85f68.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06969e14.js",
+    "static/js/2.acc85f68.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.7f14c4a0.chunk.js"
+  ]
+}
